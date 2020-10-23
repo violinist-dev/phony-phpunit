@@ -22,7 +22,7 @@
         "errors/exceptions": "^0.2",
         "friendsofphp/php-cs-fixer": "^2",
         "phpstan/extension-installer": "^1",
-        "phpstan/phpstan": "^0.12",
+        "phpstan/phpstan": "^0.12.51",
         "phpstan/phpstan-phpunit": "^0.12"
     },
     "autoload": {
